@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 
-- telescope I’m currently working on Fotball comunity project.
-- dancers I’m looking to collaborate on Javascript or typescript projects.
-- thinking I’m looking for help with Data Structures and Algorithms.
-- speech_balloon Ask me about Javascript, Typescript, Node, React, Nodjs, and Linux.
-- mailbox How to reach me: alaaahmad.freelance@gmail.com
-- smile Pronouns: He/Him
-- zap Fun fact: I learned coding by accident
+- 👨‍💻 I’m currently working on Fotball comunity project.
+- 🌱 I’m looking to collaborate on Javascript or typescript projects.
+- 🎯 I’m looking for help with Data Structures and Algorithms.
+- 🤓 Ask me about Javascript, Typescript, Node, React, Nodjs, and Linux.
+- 📧 How to reach me: alaaahmad.freelance@gmail.com
+- 😁 Pronouns: He/Him
+- 😜 Fun fact: I learned coding by accident
 

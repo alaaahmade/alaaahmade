@@ -1,7 +1,8 @@
 ### Hello Visitor, I'm Alaa Ahmad
 
 
-## I am a Full-Stack developer passionate about web technologies (web design, HTML, CSS, JS, ts, etc.) and other frameworks especially  React JS.
+## I am a Full-Stack developer with expertise in web technologies, including web design, HTML, CSS, JavaScript, and TypeScript. I have a strong command of frameworks, particularly React and Node.js. I thrive in collaborative team environments and enjoy working with others to create exceptional web solutions
+
 ## I want to enrich my skills and live up to other challenges to increase my experience.
 
 Here are some ideas to get you started:

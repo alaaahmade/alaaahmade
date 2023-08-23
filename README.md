@@ -1,6 +1,6 @@
 ### Hello Visitor, I'm Alaa Ahmad
 
-## Full-Stack developer with expertise in web technologies, including web design, HTML, CSS, JavaScript, and TypeScript.
+## Full-Stack developer with expertise in web technologies, including JavaScript, TypeScript, Express ,Error Handling , web design, HTML and  CSS.
 ## have a strong command of frameworks, particularly React and Node.js and have a strong knowledge of GitHub and AWS 
 ## I thrive in collaborative team environments and enjoy working with others to create exceptional web solutions
 
